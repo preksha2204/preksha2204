@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi there 👋, I'm Preksha K</h1>
 
 <p align="center">
@@ -12,11 +10,12 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 Currently researching **financial market crashes** (LPPL model) & **bank customer churn**  
-- 🌱 Learning more about **backend development**, **AI for decision-making**, and **secure systems**  
-- 🤝 Always open to collaborate on impactful and meaningful projects  
-- 🛡️ Certified **Cyber Crime Intervention Officer**  
-- 🧠 Believe in *"Learning by building and sharing!"*
+Hi! I'm Preksha K, a Computer Science and Financial Technology student at MIT Manipal (2023–2027).
+
+I’m passionate about coding, problem-solving, and exploring the intersection of technology and finance. I enjoy working on projects in backend development, cybersecurity, fintech, and artificial intelligence.
+
+I’m currently involved in research on financial market crashes using predictive AI models and analyzing customer churn in banking. I’ve also contributed to AI-based systems like legal case automation.
+Always curious and eager to learn, I love being part of tech communities and building real-world projects that create impact.
 
 ---
 
