@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 B.Tech CSE + FinTech @ MIT Manipal (2023–27) <br>
-  🚀 Open Source Contributor | Cybersecurity Enthusiast | FinTech Explorer <br>
+  🤖 AI | Cybersecurity | Backend | FinTech <br>
   🎯 I turn ideas into scalable, secure, and real-world tech solutions.
 </p>
 
